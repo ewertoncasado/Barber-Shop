@@ -1,10 +1,10 @@
 # Olá, me chamo Ewerton 👋
 
-Bem-vindo ao meu repositório! Eu sou um(a) desenvolvedor(a) apaixonado(a) por tecnologia e aprendizado contínuo. Este espaço é dedicado a compartilhar meus projetos, conhecimentos e explorar novas possibilidades no mundo da programação.
+Bem-vindo ao meu repositório! Eu sou um desenvolvedor apaixonado por tecnologia e aprendizado contínuo. Este espaço é dedicado a compartilhar meus projetos, conhecimentos e explorar novas possibilidades no mundo da programação.
 
 ## 🚀 Sobre mim
 
-Sou um(a) desenvolvedor(a) focado(a) em **Java** no backend e **Angular** no frontend. Tenho experiência em criar soluções escaláveis e eficientes, sempre buscando melhorar meu conhecimento e aplicar as melhores práticas de desenvolvimento.
+Sou um desenvolvedor focado em **Java** no backend e **Angular** no frontend. Tenho experiência em criar soluções escaláveis e eficientes, sempre buscando melhorar meu conhecimento e aplicar as melhores práticas de desenvolvimento.
 
 - **Paixões:** Desenvolvimento de software, Inteligência Artificial, e boas práticas de código.
 - **Interesses:** Aprender novas tecnologias, contribuir com a comunidade open-source e compartilhar conhecimento.
